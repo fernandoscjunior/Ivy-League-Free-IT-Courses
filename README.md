@@ -23,6 +23,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ## University Websites (Listing Free IT Courses)
 - [Coursera](https://www.coursera.org/browse)
 - [edx](https://www.edx.org/search?q=artificial+intelligence&attributes=Artificial+Intelligence&attributes=Computer+Science&attributes=Electronics&attributes=Data+Analysis+%26+Statistics&attributes=Engineering&language=English)
+- [Georgia Tech](https://pe.gatech.edu/massive-open-online-courses)
 - [Harvard](https://pll.harvard.edu/catalog?topics%5B702%5D=702&topics%5B714%5D=714&topics%5B715%5D=715&price%5B1%5D=1&max_price=&start_date=&keywords=&available_anytime=0&url=)
 - [MIT Open CourseWare](https://ocw.mit.edu/)
 - [MITx](https://mitxonline.mit.edu/catalog/courses/electrical-engineering-and-computer-science)
@@ -89,6 +90,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [CS229 Machine Learning Spring 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) — Stanford
 - [CS234 Reinforcement Learning Spring 2024](https://www.classcentral.com/classroom/youtube-stanford-cs234-i-reinforcement-learning-i-spring-2024-i-emma-brunskill-512659) — Stanford
 - [CS336 Language Modeling from Scratch 2025](https://www.classcentral.com/classroom/youtube-stanford-cs336-language-modeling-from-scratch-i-2025-512656) — Stanford
+- [Fundamentals of TinyML](https://www.classcentral.com/course/machine-learning-harvard-university-fundamentals--21641?ref=freecodecamp) — Harvard (edx)
 - [Machine Learning Fundamentals](https://www.coursera.org/learn/machine-learning-fundamentals-dartmouth) — Dartmouth (Coursera)
 - [Machine Learning with Neural Networks](https://www.coursera.org/learn/machine-learning-with-neural-networks-dartmouth) — Dartmouth (Coursera)
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) — Stanford / DeepLearning.ai (Coursera)
@@ -107,6 +109,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Android App Development (Advanced)](https://www.coursera.org/specializations/advanced-app-android) — Imperial College (Coursera)
 - [C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) — Dartmouth / Institut Mines-Télécom (Coursera)
 - [CS193P Developing Apps for IOS (IOS 18 2025)](https://cs193p.stanford.edu/) — Stanford
+- [CSCI1730 Intro to Programming Languages](https://www.classcentral.com/course/independent-csci-1730-introduction-to-programming-languages-458?ref=freecodecamp)  — Brown University
 - [Computing in Python I-IV](https://pe.gatech.edu/courses/computing-python-i-fundamentals-and-procedural-programming) — Georgia Tech
 - [Computer Science: Programming with Purpose (Java)](https://www.coursera.org/learn/cs-programming-java) — Princeton (Coursera)
 - [Haskell Programming](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html) — University of Pennsylvania
@@ -132,12 +135,14 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Computational Music Theory and Analysis](https://www.classcentral.com/course/mit-ocw-21m-383-computational-music-theory-and-analysis-spring-2023-497094) — MIT
 - [Cryptocurrency Engineering ad Design](https://www.classcentral.com/classroom/mit-ocw-mas-s62-cryptocurrency-engineering-and-design-spring-2018-40972) — MIT
 - [CS149 Parallel Computing](https://www.classcentral.com/classroom/youtube-stanford-cs149-i-parallel-computing-i-2023-i-kayvon-fatahalian-and-kunle-olukotun-512660) — Stanford
+- [Database Systems](https://www.classcentral.com/course/freecodecamp-database-systems-cornell-university-course-sql-nosql-large-scale-data-analysis-57068?ref=freecodecamp) — Cornell University
 - [First Principles in Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) — Columbia University (Coursera)
 - [Intro to Classical and Quantum Error Correction](https://www.classcentral.com/classroom/youtube-class-1-steve-girvin-introduction-to-classical-and-quantum-errors-corrections-479328) — Yale
 - [Intro to Computer Networks](https://www.classcentral.com/course/independent-an-introduction-to-computer-networks-471) — Stanford
 - [IOT: From Smart Sensors to Smart Network](https://www.classcentral.com/course/youtube-stanford-webinar-iot-from-smart-sensors-to-smart-networks-110007) — Stanford
 - [Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) — University of Toronto (Coursera)
 - [Sound Design for Interactive Learning Tools](https://pe.gatech.edu/courses/sound-design-for-interactive-learning-tools)  — Georgia Tech
+- [The Computing Technology Inside your Smartphone](https://www.classcentral.com/course/computer-programming-cornell-university-the-compu-2809?ref=freecodecamp) — Cornell University (edx)
 
 ---
 
