@@ -38,7 +38,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Algorithms Pt.II](https://www.coursera.org/learn/algorithms-part2) — Princeton (Coursera)
 - [Advanced Algorithms](https://www.classcentral.com/classroom/youtube-advanced-algorithms-compsci-224-48051) - Harvard
 - [Computer Architecture](https://www.coursera.org/learn/comparch) — Princeton (Coursera)
-- [Computer Science: Algoithms, Theory and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) — Princeton (Coursera)
+- [Computer Science: Algorithms, Theory and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) — Princeton (Coursera)
 - [Cryptography](https://www.coursera.org/learn/crypto) — Stanford (Coursera)
 - [CS50 Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) — Harvard
 - [Data Structures & Algoithms I-IV](https://pe.gatech.edu/courses/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues) — Georgia Tech
