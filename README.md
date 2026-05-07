@@ -50,7 +50,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
   
 ---
 
-## Cybersecuirty
+## Cybersecurity
 - [Hacker Tools](https://www.classcentral.com/course/independent-hacker-tools-13160) — MIT
 
 ---
@@ -63,6 +63,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ## Data Science
 - [Data Science and Material Informatics](https://www.coursera.org/learn/material-informatics) — Georgia Tech (Coursera)
 - [Intro to Computational Thinking and Data Science](https://www.classcentral.com/classroom/mit-ocw-6-0002-introduction-to-computational-thinking-and-data-science-fall-2016-40931) — MIT
+- [Scientific Data Analytics with R](https://rscidata.utoronto.ca/) — University of Toronto
 
 ---
 
@@ -107,6 +108,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ## Programming
 - [Android App Development Winter 2019](https://www.classcentral.com/classroom/youtube-cs-193a-android-app-development-winter-2019-107767) — Stanford
 - [Android App Development (Advanced)](https://www.coursera.org/specializations/advanced-app-android) — Imperial College (Coursera)
+- [C Programming](https://c-programming.onlinelearning.utoronto.ca/) — University of Toronto
 - [C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) — Dartmouth / Institut Mines-Télécom (Coursera)
 - [CS193P Developing Apps for IOS (IOS 18 2025)](https://cs193p.stanford.edu/) — Stanford
 - [CSCI1730 Intro to Programming Languages](https://www.classcentral.com/course/independent-csci-1730-introduction-to-programming-languages-458?ref=freecodecamp)  — Brown University
